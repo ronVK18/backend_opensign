@@ -22,7 +22,7 @@ const consonantDictionary = {
     21: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723989109/l7gp2hd9hwjgxk6sryet.jpg',
     22: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723989110/xnjeiawgyvaes1f8pwlb.jpg',
     23: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723989111/tfgrmnxpe1wc7emp4wuf.jpg',
-    24: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723989112/gjbdpwjhll72ni1dlidz.jpg',
+    24: ' https://res.cloudinary.com/dusmxhunj/image/upload/v1725980744/jzxieuwjq2iztlnl10jh.jpg',
     25: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723989114/lclhonfiwb5q6lm83wh0.jpg',
     26: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723989115/x6mc8lofvkuy3v4ayxlk.jpg',
     27: 'https://res.cloudinary.com/dusmxhunj/image/upload/v1723990521/jjuxvsnjqz49io5pvroh.jpg',
